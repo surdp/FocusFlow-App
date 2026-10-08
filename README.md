@@ -627,25 +627,6 @@ Feature availability may change as the product develops.
 
 ---
 
-# 🔒 Source Code
-
-The FocusFlow application source code is maintained in a **private repository**.
-
-This public repository exists to provide:
-
-- Product information
-- User documentation
-- Feature information
-- Official links
-- Release information
-- Public project information
-
-This repository **does not contain the FocusFlow application source code**.
-
-Do not treat this repository as an open-source distribution of FocusFlow.
-
----
-
 # 📬 Contact
 
 For questions, feedback, suggestions, privacy requests, or other inquiries:
