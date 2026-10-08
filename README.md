@@ -6,7 +6,7 @@
 
 ### Focus. Plan. Accomplish.
 
-**[Download FocusFlow for Android](https://github.com/surajdp411/FocusFlow-App/releases/download/v1.0.0/app-release.apk)
+[Download FocusFlow for Android](https://github.com/surajdp411/FocusFlow-App/releases/download/v1.0.0/app-release.apk)
 
 FocusFlow is a cross-platform focus, productivity, and study timer designed to help you structure focused work sessions, study periods, breaks, intervals, and daily goals.
 
